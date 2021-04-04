@@ -54,4 +54,4 @@ async def on_ready():
 	print('The bot is ready!')
 
 
-client.run('NzcwNjA0NDc4OTg1NDA0NDE2.X5f_WA.g_19Qpot04QGARWhOLTu2Yx73pI')
+client.run('')
