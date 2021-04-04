@@ -1,7 +1,9 @@
 # kittenbot
 
 author : welkenburg
+
 language : python
+
 requires : discord
 
 ## Description
